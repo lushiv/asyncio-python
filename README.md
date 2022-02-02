@@ -52,4 +52,4 @@ send() — used to send data to coroutine
 close() — to close the coroutine
 ```
 
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/d2p2PW1/Screenshot-from-2022-02-02-23-10-25.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/S3Yh2wW/Functions-Versus-Coroutines.png" height="175px"/></a>
